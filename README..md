@@ -1,0 +1,1 @@
+![Amit Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=zed1025&count_private=true)
