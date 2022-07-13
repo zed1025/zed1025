@@ -1,4 +1,4 @@
-![Amit Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=zed1025&count_private=true)
+### Hi there 👋
 
 - 🔭 I’m currently working on Spring/SpringBoot, Apache Kafka
 - 🌱 I’m currently learning Spring/SpringBoot, Apache Kafka, Kubernetes, AWS
@@ -9,8 +9,13 @@
 - ⚡ Fun fact: The nonsense phrase "umop apisdn" is "upside down" spelled upside down.
 
 
+![Amit Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=zed1025&count_private=true)
 
-### Hi there 👋
+
+
+
+
+
 
 <!--
 **zed1025/zed1025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
