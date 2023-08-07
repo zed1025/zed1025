@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Spring/SpringBoot, Apache Kafka
-- 🌱 I’m currently learning Spring/SpringBoot, Apache Kafka, Kubernetes, AWS
-- 👯 I’m looking to collaborate on Django, Spring/SpringBoot, Kubernetes
-- 🤔 I’m looking for help with Kubernetes, Spring/SpringBoot
+- 🔭 I’m currently working on Python, Ansible, Docker, Kubernetes
+- 🌱 I’m currently doing research on Virtulization and Cloud Computing 
+- 👯 I’m looking to collaborate on Django, Virtual Machines(KVM/QEMU)
+- 🤔 I’m looking for help with Virtual Machines(KVM/QEMU)
 - 📫 How to reach me: banyasuofirst@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: The nonsense phrase "umop apisdn" is "upside down" spelled upside down.
